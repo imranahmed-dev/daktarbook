@@ -1,0 +1,58 @@
+@media all and (max-width: 1200px) {}
+
+@media all and (max-width: 1080px) {}
+
+@media all and (max-width: 992px) {
+    .teachers-profile {
+        height: auto;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .ht-social {
+        float: none;
+        text-align: center;
+    }
+    .ht-email {
+        text-align: center;
+        ;
+    }
+    .mybtn-md {
+        margin-bottom: 10px;
+    }
+    .advance-search-m {
+        display: none;
+        margin-left: 0px;
+    }
+    #search-mob {
+        display: block;
+    }
+}
+
+@media all and (max-width: 576px) {
+    .auth-user-name {
+        display: none;
+    }
+    .logologo {
+        width: 140px;
+    }
+    .mob-sign {
+        display: block;
+    }
+    .desk-sign {
+        display: none;
+    }
+    .teachers-profile-img-res {
+        display: none;
+    }
+    .ddddd {
+        font-size: 20px;
+    }
+    .mobile-logo {
+        display: block;
+    }
+}
+
+@media all and (max-width: 480px) {}
+
+@media all and (max-width: 360px) {}
