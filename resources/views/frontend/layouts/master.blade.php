@@ -295,7 +295,7 @@
                 <div class="modal-body">
                     <div class="p-10">
                         <a href="{{route('doctor.register')}}" class="btn btn-primary btn-block btn-sm"><i class="fa fa-medkit mr-3"></i> As a Doctor</a>
-                        <a href="{{route('user.register')}}" class="btn btn-info btn-block btn-sm"><i class="fa fa-user mr-3"></i> As a User</a>
+                        <a href="{{route('user.register')}}" class="btn btn-info btn-block btn-sm"><i class="fa fa-user mr-3"></i> As a Visitor</a>
                     </div>
                 </div>
             </div>
